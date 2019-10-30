@@ -1,6 +1,6 @@
-class lmao{
+class first{
 package my.program
 fun main(args: Array<String>){
-    println("Hello bish!!!!!")
+    println("Hello World!!!!!")
 }
 }
